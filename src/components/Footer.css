@@ -1,5 +1,43 @@
 .footer {
-  text-align: center;
-  padding: 20px;
   background: #111;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.footer-container {
+  max-width: 1100px;
+  margin: auto;
+}
+
+.footer h2 {
+  color: #ffb400;
+  margin-bottom: 15px;
+}
+
+.footer p {
+  color: #ccc;
+  line-height: 1.8;
+  margin: 10px 0;
+}
+
+.developer {
+  margin-top: 25px;
+  padding-top: 20px;
+  border-top: 1px solid #333;
+  font-size: 15px;
+  color: #aaa;
+}
+
+.developer strong {
+  color: #ffb400;
+}
+
+.developer a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.developer a:hover {
+  color: #ffb400;
 }
