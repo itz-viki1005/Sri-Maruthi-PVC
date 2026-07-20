@@ -12,7 +12,7 @@ Sri Maruthi PVC Interiors is a modern and responsive website developed for an in
 
 ## 🚀 Live Demo
 
-🔗 https://your-vercel-link.vercel.app
+🔗 https://sri-maruthi-pvc.vercel.app/
 
 ---
 
